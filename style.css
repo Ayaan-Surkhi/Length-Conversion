@@ -1,0 +1,60 @@
+@import url("https://fonts.googleapis.com/css2?family=Comfortaa:wght@600&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: black;
+}
+
+.container {
+  background-color: black;
+}
+
+#title {
+  text-align: center;
+  padding: 10px;
+  background-color: black;
+  color: white;
+  font-family: "Comfortaa", cursive;
+}
+
+.form {
+  background-color: #333;
+  display: flex;
+  color: white;
+  font-family: "Comfortaa", cursive;
+}
+
+.form .centimeter {
+  margin: 20px;
+}
+
+.form .centimeter .centimeter label {
+  font-size: 25px;
+}
+
+.form .meter {
+  margin: 20px;
+}
+
+.form .meter .meter label {
+  font-size: 25px;
+}
+
+.form .feet {
+  margin: 20px;
+}
+
+.form .feet .feet label {
+  font-size: 25px;
+}
+
+input {
+  outline: none;
+  font-family: "Comfortaa", cursive;
+  font-size: 30px;
+}
+/*# sourceMappingURL=style.css.map */
